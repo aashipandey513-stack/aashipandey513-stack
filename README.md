@@ -35,4 +35,4 @@ I am highly aware of my own learning curve. I have my shortcomings, and I may so
 </p>
 
 ---
-📫 **Connect:**  https://www.linkedin.com/in/aashi-pandey-9a995137b?utm_source=share_via&utm_content=profile&utm_medium=member_android| 
+📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/aashi-pandey-9a995137b/)
