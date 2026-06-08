@@ -29,10 +29,7 @@ I am highly aware of my own learning curve. I have my shortcomings, and I may so
 
 ### 📈 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aashipandey513-stack&bg_color=ffffff&title_color=1f2937&text_color=4b5563&icon_color=38bdf8&hide_border=true&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aashipandey513-stack&layout=compact&bg_color=ffffff&title_color=1f2937&text_color=4b5563&icon_color=38bdf8&hide_border=true)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aashipandey513-stack&theme=transparent&hide_border=true)
 
 
 ---
