@@ -29,10 +29,11 @@ I am highly aware of my own learning curve. I have my shortcomings, and I may so
 
 ### 📈 GitHub Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aashipandey513-stack&bg_color=ffffff&title_color=1f2937&text_color=4b5563&icon_color=38bdf8&hide_border=true&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashipandey513-stack&layout=compact&bg_color=ffffff&title_color=1f2937&text_color=4b5563&icon_color=38bdf8&hide_border=true" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aashipandey513-stack&bg_color=ffffff&title_color=1f2937&text_color=4b5563&icon_color=38bdf8&hide_border=true&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aashipandey513-stack&layout=compact&bg_color=ffffff&title_color=1f2937&text_color=4b5563&icon_color=38bdf8&hide_border=true)
+
+
 
 ---
 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/aashi-pandey-9a995137b/)
